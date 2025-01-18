@@ -1,0 +1,2 @@
+A Gym Website is a dynamic, responsive platform built with HTML5, CSS3, and JavaScript. It showcases fitness programs and trainer profiles while utilizing Bootstrap for layout design, Owl Carousel for smooth image transitions, and AOS (Animate On Scroll) for engaging animations, offering a visually appealing user experience across all devices.
+Visit Project : https://manojpatil10.github.io/Fittlife-gym-/
